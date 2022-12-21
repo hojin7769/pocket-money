@@ -25,7 +25,7 @@ public class ExcelCC extends StandardSpringTest {
 
     @Test
     void name() throws IOException {
-        FileInputStream fis = new FileInputStream(new File("C:\\새 폴더\\이름.xlsx"));
+        FileInputStream fis = new FileInputStream(new File("C:\\새 폴더\\신용카드이용내역_승인_국내통합.xlsx"));
         XSSFWorkbook workbook = new XSSFWorkbook(fis);
         XSSFSheet sheet = workbook.getSheetAt(0);
         XSSFRow row = sheet.getRow(0);
@@ -36,14 +36,16 @@ public class ExcelCC extends StandardSpringTest {
 
         for (int i = 1; i < totalRowCount ; i++) {
             Row row1 = sheet.getRow(i);
-            System.out.println((int)row1.getCell(0).getNumericCellValue());
+            System.out.println(row1.getCell(0).getStringCellValue());
             System.out.println(row1.getCell(1).getStringCellValue());
             System.out.println(row1.getCell(2).getStringCellValue());
+            System.out.println(row1.getCell(3).getStringCellValue());
+            System.out.println(row1.getCell(4).getStringCellValue());
+            System.out.println(row1.getCell(5).getStringCellValue());
+            System.out.println(row1.getCell(6).getNumericCellValue());
+            System.out.println(row1.getCell(7).getStringCellValue());
+            System.out.println(row1.getCell(8).getStringCellValue());
         }
-
-
-
-
     }
 
 }
