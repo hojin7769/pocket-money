@@ -57,7 +57,14 @@ function readTextFile(tt) {
           @update:model-value="readTextFile"
         />
       </div>
-      {{ header }}
+      <table>
+        <tr >
+          <th></th>
+        </tr>
+        <tr>
+          <td v-for="(tt,i) in row" :key="tt[0]"> {{tt}}</td>
+        </tr>
+      </table>
     </div>
   </q-page>
 </template>
