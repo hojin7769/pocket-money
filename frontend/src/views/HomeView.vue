@@ -30,6 +30,8 @@ function readExcel(value) {
 }
 
 function readTextFile(tt) {
+  row.value = [];
+  header.value = [];
   const file = tt;
   const reader = new FileReader();
   reader.onload = () => {

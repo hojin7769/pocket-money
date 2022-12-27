@@ -2,7 +2,7 @@ import { createApp } from 'vue';
 import './style.css';
 import App from './App.vue';
 import router from './router/index.js';
-import { Quasar } from 'quasar';
+import { Quasar, Dialog } from 'quasar';
 
 // Import icon libraries
 import '@quasar/extras/material-icons/material-icons.css';
@@ -16,6 +16,6 @@ const pinia = createPinia();
 Vue.use(pinia)
   .use(router)
   .use(Quasar, {
-    plugins: {}, // import Quasar plugins and add here
+    plugins: { Dialog }, // import Quasar plugins and add here
   })
   .mount('#app');

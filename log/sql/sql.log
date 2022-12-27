@@ -1,0 +1,572 @@
+08:32:09.592 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 20 msec} 
+08:32:09.674 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+08:34:11.346 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 16 msec} 
+08:34:11.420 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 12 msec} 
+08:36:05.873 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+08:36:05.902 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 7 msec} 
+08:37:21.065 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 13 msec} 
+08:37:21.100 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+08:37:52.565 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 12 msec} 
+08:37:52.626 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 8 msec} 
+12:05:25.016 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 11 msec} 
+12:05:25.064 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+12:05:55.008 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+12:05:55.037 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+12:06:19.690 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+12:06:19.720 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+12:07:13.880 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+12:07:13.906 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:07:44.263 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:07:44.317 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:14:02.374 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:14:02.404 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:14:44.899 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:14:45.002 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 10 msec} 
+13:14:49.167 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 10 msec} 
+13:14:54.497 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 16 msec} 
+13:14:54.528 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:15:03.267 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:03.282 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:37.730 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:37.756 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:53.080 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:53.088 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:15:54.738 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:15:54.749 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 6 msec} 
+13:16:00.762 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 7 msec} 
+13:16:00.774 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 7 msec} 
+13:16:14.320 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:14.327 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:30.354 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:38.634 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:38.665 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:45.546 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:45.609 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:56.957 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:16:56.968 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:20:58.968 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:20:58.994 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:21:01.194 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:21:01.202 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:36:25.673 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:36:25.703 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:36:58.557 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:37:31.535 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:37:34.954 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:37:37.468 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:37:37.494 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:38:08.020 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:38:08.046 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:39:06.235 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:39:06.263 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:06.188 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:06.223 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:15.261 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:15.290 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:40:22.933 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:22.958 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:40:38.085 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:38.093 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:43.972 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:40:44.004 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:41:04.782 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:41:04.819 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:41:31.283 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:41:31.307 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:41:35.653 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:41:35.680 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:42:08.864 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:42:08.889 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:42:19.151 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:42:19.176 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:27.245 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:27.268 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:34.540 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:34.547 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:42.520 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:44.970 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:44.981 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:47.262 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:47.269 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:43:49.249 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:44:49.729 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:44:49.838 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:45:04.881 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:45:32.426 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:12.724 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:17.244 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:23.466 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:24.746 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:28.650 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:46:39.290 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:46:44.650 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:46:46.728 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:46:48.480 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:47:57.810 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:47:57.950 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:48:01.791 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:48:01.821 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:49:10.382 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:49:10.407 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:49:22.239 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:49:22.378 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:50:08.513 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:50:08.612 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:50:11.201 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:50:11.227 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:50:11.440 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:00.436 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:02.197 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:02.238 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:51:02.399 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:07.525 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:10.033 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:19.308 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:51:27.377 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 20 msec} 
+13:51:27.406 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 7 msec} 
+13:51:27.534 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:52:04.190 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+13:52:06.178 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+13:52:06.206 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:52:06.435 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+13:52:23.758 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:00:44.177 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+14:00:44.205 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-3] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:00:44.398 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-4] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:00:51.046 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-5] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+14:00:51.055 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-6] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:00:51.172 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-7] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:01:23.947 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-8] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 3 msec} 
+14:24:11.137 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-9] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
+14:24:11.165 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-10] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:29:07.670 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-1] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 4 msec} 
+14:29:07.697 [36mnet.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator[0;39m : [http-nio-8080-exec-2] INFO  jdbc.sqltiming - select menuvo0_.SN_SEQ as sn_seq1_0_, menuvo0_.MENU_CODE as menu_cod2_0_, menuvo0_.MENU_ICON 
+as menu_ico3_0_, menuvo0_.MENU_NAME as menu_nam4_0_, menuvo0_.MENU_ORDER as menu_ord5_0_, menuvo0_.MENU_PATH 
+as menu_pat6_0_, menuvo0_.MENU_ROUTER as menu_rou7_0_ from MENU_LIST menuvo0_ 
+ {executed in 5 msec} 
