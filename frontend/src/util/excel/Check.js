@@ -1,7 +1,8 @@
 const check = {
   nameCheck: nameValue => {
-    const name = String(nameValue);
-    if (name.includes('카드')) {
+    const name = String(nameValue)
+    const regex = /[^신한카드]/
+    if (regex.test(name)) {
       return '카드';
     } else {
       return '은행';

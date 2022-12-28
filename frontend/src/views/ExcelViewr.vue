@@ -14,16 +14,21 @@ const fileName = ref();
 
 const nameCheck = value => {
   fileName.value = check.nameCheck(value.name);
+  alert(fileName.value)
   switch (check.nameCheck(value.name)) {
     case '카드':
-      readExcel(value, updateDB);
+      readExcel(value, updateCardDB);
       break;
     case '은행':
-      readExcel(value, console.consolePrint);
+      readExcel(value, console.consolePrint,{
+        header: 0,
+        range: 6,
+        defval: '',
+      });
       break;
   }
 };
-function readExcel(value, callbackFn) {
+function readExcel(value, callbackFn,option) {
   console.log(value);
   const reader = new FileReader();
   reader.onload = function () {
@@ -31,11 +36,7 @@ function readExcel(value, callbackFn) {
     let workBook = XLSX.read(data, { type: 'binary' });
 
     workBook.SheetNames.forEach(sheetName => {
-      let rows = XLSX.utils.sheet_to_json(workBook.Sheets[sheetName], {
-        header: 0,
-        range: 6,
-        defval: '',
-      });
+      let rows = XLSX.utils.sheet_to_json(workBook.Sheets[sheetName]);
 
       header.value = Object.keys(rows[0]);
       row.value = rows;
@@ -45,7 +46,7 @@ function readExcel(value, callbackFn) {
   };
   reader.readAsBinaryString(value);
 }
-function updateDB(rowData) {
+function updateCardDB(rowData) {
   rowData.map(row => {
     const data = {
       approvalNumber: row.승인번호,
@@ -60,14 +61,14 @@ function updateDB(rowData) {
     };
     paramData.value.push(data);
   });
-  axios
-    .post('/api/card/saveAll', paramData.value)
-    .then(res => {
-      console.log(res);
-    })
-    .catch(err => {
-      console.log(err);
-    });
+  // axios
+  //   .post('/api/card/saveAll', paramData.value)
+  //   .then(res => {
+  //     console.log(res);
+  //   })
+  //   .catch(err => {
+  //     console.log(err);
+  //   });
 }
 </script>
 
