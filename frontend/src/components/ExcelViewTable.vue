@@ -4,7 +4,7 @@ import { ref } from 'vue';
 
 const porps = defineProps(['header', 'rows', 'fileName']);
 const columns = ref(
-  porps.fileName === '카드'
+  porps.fileName == '카드'
     ? excelTableColum.cardExcel
     : excelTableColum.banckExcel,
 );
