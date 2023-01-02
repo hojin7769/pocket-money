@@ -50,6 +50,7 @@ function selectData() {
     } else {
       global.loadMenu = true;
     }
+    console.log(currList.currMenu);
     $router.push(currList.currMenu.menuRouter);
   });
 }
@@ -57,6 +58,7 @@ function selectData() {
 function appendRouter(menuList, path) {
   for (var i = 0; i < menuList.length; i++) {
     if (menuList[i].menuRouter === path) {
+      console.log(menuList[i]);
       return menuList[i];
     }
   }

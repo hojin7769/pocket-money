@@ -82,7 +82,6 @@ const menuTable = {
       name: 'menuRouter',
       label: '메뉴라우터',
       field: 'menuRouter',
-      format: val => date.formatDate(val, 'YYYY-MM-DD'),
       sortable: true,
     },
   ],

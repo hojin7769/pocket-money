@@ -82,7 +82,7 @@ const excelColums = {
       format: val => `${val}`,
     },
   ],
-  banckExcel: [
+  bankExcel: [
     {
       name: '거래일자',
       required: true,

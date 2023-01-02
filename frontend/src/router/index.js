@@ -1,21 +1,17 @@
 import { createApp } from 'vue';
-import {
-  createRouter,
-  createWebHashHistory,
-  createWebHistory,
-} from 'vue-router';
+import { createRouter, createWebHistory } from 'vue-router';
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: () => import('../views/ExcelViewr.vue'),
+    name: 'DashBoard',
+    component: () => import('../views/DashBoard.vue'),
   },
 ];
 
 // create history
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   routes,
 });
 export default router;

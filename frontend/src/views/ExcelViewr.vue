@@ -9,18 +9,25 @@ const model = ref();
 const header = ref([]);
 const row = ref([]);
 const paramData = ref([]);
+const visibleTable = ref(false);
 
 const fileName = ref();
 
 const nameCheck = value => {
+  visibleTable.value = true;
+  row.value = [];
+  header.value = [];
   fileName.value = check.nameCheck(value.name);
-  alert(fileName.value)
   switch (check.nameCheck(value.name)) {
     case '카드':
-      readExcel(value, updateCardDB);
+      readExcel(value, updateCardDB, {
+        header: 0,
+        range: 0,
+        defval: '',
+      });
       break;
     case '은행':
-      readExcel(value, console.consolePrint,{
+      readExcel(value, updateBankDB, {
         header: 0,
         range: 6,
         defval: '',
@@ -28,7 +35,7 @@ const nameCheck = value => {
       break;
   }
 };
-function readExcel(value, callbackFn,option) {
+function readExcel(value, callbackFn, option) {
   console.log(value);
   const reader = new FileReader();
   reader.onload = function () {
@@ -36,7 +43,7 @@ function readExcel(value, callbackFn,option) {
     let workBook = XLSX.read(data, { type: 'binary' });
 
     workBook.SheetNames.forEach(sheetName => {
-      let rows = XLSX.utils.sheet_to_json(workBook.Sheets[sheetName]);
+      let rows = XLSX.utils.sheet_to_json(workBook.Sheets[sheetName], option);
 
       header.value = Object.keys(rows[0]);
       row.value = rows;
@@ -61,14 +68,39 @@ function updateCardDB(rowData) {
     };
     paramData.value.push(data);
   });
-  // axios
-  //   .post('/api/card/saveAll', paramData.value)
-  //   .then(res => {
-  //     console.log(res);
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  axios
+    .post('/api/card/saveAll', paramData.value)
+    .then(res => {
+      console.log(res);
+    })
+    .catch(err => {
+      console.log(err);
+    });
+}
+
+function updateBankDB(rowData) {
+  rowData.map(row => {
+    // paramData.value.push(data);
+    let keys = Object.keys(row);
+    const data = {
+      dtTransaction: row[keys[0]] + ' ' + row[keys[1]],
+      briefs: row[keys[2]],
+      withdrawal: row[keys[3]],
+      deposit: row[keys[4]],
+      contents: row[keys[5]],
+      balance: row[keys[6]],
+      tradingPoint: row[keys[7]],
+    };
+    paramData.value.push(data);
+  });
+  axios
+    .post('/api/bank/saveAll', paramData.value)
+    .then(res => {
+      console.log(res);
+    })
+    .catch(err => {
+      console.log(err);
+    });
 }
 </script>
 
@@ -88,6 +120,7 @@ function updateCardDB(rowData) {
         :header="header"
         :rows="row"
         :fileName="fileName"
+        v-if="visibleTable"
       ></ExcelViewTable>
     </div>
   </div>

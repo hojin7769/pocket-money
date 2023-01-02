@@ -18,4 +18,9 @@ public class MenuServiceImpl implements MenuService {
     public List<MenuVO> selectMenu() {
         return menuBridge.selectMenu();
     }
+
+    @Override
+    public MenuVO addMenu(MenuVO vo) {
+        return menuBridge.addMenu(vo);
+    }
 }

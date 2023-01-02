@@ -74,6 +74,7 @@ const updateRow = (evt, row, index) => {
   // };
   // console.log(global.targetRow);
   // msg.dialog(opt);
+  console.log(row);
   $q.dialog({
     component: FormEditVue,
     componentProps: {

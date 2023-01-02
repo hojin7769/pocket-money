@@ -1,50 +1,50 @@
 <script setup>
 import { ref } from '@vue/reactivity';
-import { inject } from '@vue/runtime-core';
 import { useQuasar } from 'quasar';
 import { useRouter } from 'vue-router';
 import { msg } from '../../util/Utils.js';
 import { useGlobalStore } from '../../store/global.js';
+import axios from 'axios';
 
 const $q = useQuasar();
 const global = useGlobalStore();
-const axios = inject('axios');
 const $router = useRouter();
 const closed = ref(false);
-const menu = defineProps({
-  menu: Object,
-  type: String,
-  oldCD: String,
-});
+const props = defineProps(['menu', 'type', 'oldCD']);
 const editMenu = () => {
-  if (menu.type) {
+  if (props.type) {
     const param = {
-      menu: menu.menu,
-      oldCD: menu.oldCD,
+      menu: props.menu,
+      oldCD: props.oldCD,
     };
-    axios.post('/api/menu/menuSave', param).then(res => {
+    axios.post('/api/menu/update', param).then(res => {
       msg.alert({
         title: 'Update Success',
         message: res.data.message,
         onOK: () => {},
         onDismiss: () => {
           $router.push('/FormMaster');
-          menu.menu = null;
+          props.menu = null;
         },
       });
     });
   } else {
     const param = {
-      menu: menu.menu,
+      menuName: props.menu.menuName,
+      menuCode: props.menu.menuCode,
+      menuIcon: props.menu.menuIcon,
+      menuOrder: props.menu.menuOrder,
+      menuPath: props.menu.menuPath,
+      menuRouter: props.menu.menuRouter,
     };
-    axios.post('/api/menu/menuSave', param).then(res => {
+    axios.post('/api/menu/addMenu', param).then(res => {
       msg.alert({
         title: 'Insert Success',
         message: res.data.message,
         onOK: () => {},
         onDismiss: () => {
-          $router.push('/FormMaster');
-          menu.menu = null;
+          $router.push('/menuList');
+          props.menu = null;
         },
       });
     });
@@ -55,17 +55,17 @@ const deleteMenu = () => {
     title: '알림',
     message: '삭제하겠습니까?',
     onOk: () => {
-      axios.post('/api/menu/deletemenu', menu.menu).then(res => {
+      axios.post('/api/menu/deletemenu', props.menu).then(res => {
         msg.alert({
           title: 'Delete Success',
           message: res.data.message,
           onOK: () => {
             $router.go();
-            menu.menu = null;
+            props.menu = null;
           },
           onDismiss: () => {
             $router.go();
-            menu.menu = null;
+            props.menu = null;
           },
         });
       });
@@ -85,7 +85,7 @@ const dense = ref(false);
 </script>
 
 <template>
-  <q-dialog v-model="fixed" style="max-width: 500px width: 100%;">
+  <q-dialog v-model="fixed" style="max-width: 500px; width: 100%">
     <q-card>
       <q-card-section>
         <div class="q-gutter-md" style="max-width: 500px">
@@ -100,7 +100,7 @@ const dense = ref(false);
             clearable
             filled
             color="purple-12"
-            v-model="menu.menu.codeMenu"
+            v-model="menu.menuCode"
             label="메뉴아이디"
             class="input"
             :rules="[val => !!val || '필수 입력값 입니다.']"
@@ -111,16 +111,27 @@ const dense = ref(false);
             clearable
             filled
             color="purple-12"
-            v-model="menu.menu.nameMenu"
+            v-model="menu.menuName"
             label="메뉴명"
             class="input"
             :rules="[val => !!val || '필수 입력값 입니다.']"
           />
+
           <q-input
             clearable
             filled
             color="purple-12"
-            v-model="menu.menu.noOrder"
+            v-model="menu.menuIcon"
+            label="메뉴아이콘"
+            class="input"
+            :rules="[val => !!val || '필수 입력값 입니다.']"
+          />
+
+          <q-input
+            clearable
+            filled
+            color="purple-12"
+            v-model="menu.menuOrder"
             label="메뉴순서"
             class="input"
             maxlength="10"
@@ -130,7 +141,7 @@ const dense = ref(false);
             clearable
             filled
             color="purple-12"
-            v-model="menu.menu.pathMenu"
+            v-model="menu.menuPath"
             label="메뉴Path"
             class="input"
             :rules="[val => !!val || '필수 입력값 입니다.']"
@@ -139,21 +150,21 @@ const dense = ref(false);
             clearable
             filled
             color="purple-12"
-            v-model="menu.menu.dsRouter"
+            v-model="menu.menuRouter"
             label="메뉴Router"
             class="input"
             :rules="[val => !!val || '필수 입력값 입니다.']"
           />
-          <q-input
-            clearable
-            filled
-            color="purple-12"
-            v-model="menu.menu.nmInserter"
-            label="작성자"
-            class="input"
-            disable="disable"
-            :rules="[val => !!val || '필수 입력값 입니다.']"
-          />
+          <!--          <q-input-->
+          <!--            clearable-->
+          <!--            filled-->
+          <!--            color="purple-12"-->
+          <!--            v-model="menu.menu.nmInserter"-->
+          <!--            label="작성자"-->
+          <!--            class="input"-->
+          <!--            disable="disable"-->
+          <!--            :rules="[val => !!val || '필수 입력값 입니다.']"-->
+          <!--          />-->
         </q-card-section>
         <q-separator />
         <q-card-actions align="right">

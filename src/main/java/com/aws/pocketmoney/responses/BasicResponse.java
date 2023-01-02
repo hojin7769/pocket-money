@@ -11,6 +11,7 @@ public class BasicResponse {
     private Integer count;
     private List<?> result;
 
+
     public static BasicResponseBuilder builder() {
         return new BasicResponseBuilder();
     }
@@ -45,4 +46,5 @@ public class BasicResponse {
     public void setResult(List<?> result) {
         this.result = result;
     }
+
 }

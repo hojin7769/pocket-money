@@ -17,4 +17,11 @@ public class MenuBridge {
     public List<MenuVO> selectMenu(){
         return menuRepository.findAll();
     }
+
+    @Bridge
+    public MenuVO addMenu (MenuVO vo){
+
+
+        return menuRepository.save(vo);
+    }
 }

@@ -11,3 +11,4 @@ public interface MenuRepository extends JpaRepository<MenuVO, Long> {
 
 
 }
+

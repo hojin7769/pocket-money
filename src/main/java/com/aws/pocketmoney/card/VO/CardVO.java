@@ -35,7 +35,7 @@ public class CardVO {
     private String merchantName;
 
     @Column(name = "AMOUNT")
-    private Long amount;
+    private int amount;
 
     @Column(name = "CLASSIFICATION")
     private String classification;

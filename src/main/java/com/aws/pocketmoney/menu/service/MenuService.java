@@ -6,5 +6,6 @@ import java.util.List;
 
 public interface MenuService {
 
-    public List<MenuVO> selectMenu();
+     List<MenuVO> selectMenu();
+    MenuVO addMenu(MenuVO vo);
 }
