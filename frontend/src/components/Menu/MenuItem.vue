@@ -3,7 +3,7 @@
     <q-item
       clickable
       v-ripple
-      :inset-level="level == 0 ? -1 : level / 9"
+      :inset-level="level === 0 ? -1 : level / 9"
       :active="menuRouter === global.currentMenu"
       @click="addrouting(props)"
     >
@@ -26,10 +26,9 @@
 </style>
 <script setup>
 import { toRefs } from 'vue';
-import { useGlobalStore } from '../../store/global';
+import { useGlobalStore } from '@/store/global';
 
 import { useRouter } from 'vue-router';
-import { msg } from '../../util/Utils';
 
 const $router = useRouter();
 const global = useGlobalStore();
@@ -64,6 +63,7 @@ const props = defineProps({
   },
 });
 
+// eslint-disable-next-line no-unused-vars
 const { menuName, menuIcon, menuRouter, level, menuOpened } = toRefs(props);
 
 function addrouting(item) {
@@ -71,7 +71,7 @@ function addrouting(item) {
   $router.addRoute({
     path: item.menuRouter,
     name: item.menuName,
-    component: () => import('../../views/' + item.menuPath + '.vue'),
+    component: () => import(`../../views/${item.menuPath}.vue`),
   });
   $router.push(item.menuRouter);
 }

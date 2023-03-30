@@ -21,7 +21,7 @@ const editEvent = value => {
       <q-card-section class="bg-primary text-white">
         <div class="row items-center justify-between">
           <div style="font-weight: 700; font-size: 25px; text-align: center">
-            Role 화면관리
+            일정 등록
           </div>
           <q-btn
             padding="0"

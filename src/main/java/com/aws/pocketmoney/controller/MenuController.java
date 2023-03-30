@@ -25,6 +25,8 @@ public class MenuController {
     @PostMapping("/list")
     public ResponseEntity<?> selectMenu(){
         List<MenuVO> list = menuService.selectMenu();
+
+        System.out.println(list.get(1).toString());
         BasicResponse basicResponse = BasicResponse.builder().code(HttpStatus.OK.value()).httpStatus(HttpStatus.OK).result(list).build();
 
         return new ResponseEntity<>(basicResponse, basicResponse.getHttpStatus());

@@ -11,5 +11,12 @@ module.exports = {
     "parserOptions": {
     },
     "rules": {
+        'prettier/prettier': [
+            'error',
+            {
+                useTabs: false,
+                endOfLine: 'auto',
+            },
+        ],
     },
 };

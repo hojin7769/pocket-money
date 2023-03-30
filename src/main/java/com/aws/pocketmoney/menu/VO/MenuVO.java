@@ -3,6 +3,7 @@ package com.aws.pocketmoney.menu.VO;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 
 import javax.persistence.*;
 import java.math.BigInteger;
@@ -12,6 +13,7 @@ import java.math.BigInteger;
 @NoArgsConstructor
 @Table(name = "MENU_LIST")
 @Entity
+@ToString
 public class MenuVO {
 
     @Id
@@ -30,4 +32,5 @@ public class MenuVO {
     private String menuPath;
     @Column(name="MENU_ROUTER")
     private String menuRouter;
+
 }

@@ -13,7 +13,7 @@
 import MenuItem from './MenuItem.vue';
 import { reactive } from 'vue';
 import { useRouter } from 'vue-router';
-import { useGlobalStore } from '../../store/global';
+import { useGlobalStore } from '@/store/global';
 import axios from 'axios';
 
 const $router = useRouter();
@@ -22,7 +22,7 @@ const global = useGlobalStore();
 const boardList = reactive({
   board: [],
 });
-
+selectData();
 function selectData() {
   axios.post('/api/menu/list').then(response => {
     const currList = {
@@ -38,12 +38,12 @@ function selectData() {
           path: currList.currMenu.menuRouter,
           name: currList.currMenu.menuName,
           component: () => {
-            return import(
-              '../../views/' + currList.currMenu.menuPath + '.vue'
-            ).then(m => {
-              global.loadMenu = true;
-              return m;
-            });
+            return import(`../../views/${currList.currMenu.menuPath}.vue`).then(
+              m => {
+                global.loadMenu = true;
+                return m;
+              },
+            );
           },
         });
       }
@@ -64,6 +64,4 @@ function appendRouter(menuList, path) {
   }
   return null;
 }
-
-selectData();
 </script>
